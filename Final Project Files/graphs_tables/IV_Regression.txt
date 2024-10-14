@@ -1,0 +1,12 @@
+	(1)	(2)	(3)
+VARIABLES	gdppercapita	gdppercapita	gdppercapita
+			
+autocracy_level	8,787***	6,105***	6,543***
+	(831.1)	(1,307)	(1,159)
+Constant	-1.167	2,539	1,990
+	(1,031)	(1,688)	(1,509)
+			
+Observations	9,081	692	692
+R-squared	0.104	0.230	0.222
+Standard errors in parentheses			
+*** p<0.01, ** p<0.05, * p<0.1			
